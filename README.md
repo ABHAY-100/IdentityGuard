@@ -1,2 +1,1 @@
-# IdentityGuard
-A secure Flutter app for managing identity with blockchain and Zero-Knowledge Proofs, ensuring privacy in verification.
+IdentityGuard is a Flutter app designed for users to securely store and manage personal identity details (like age and citizenship) using blockchain technology and Zero-Knowledge Proofs (ZKP). Users can prove claims like "I'm over 18" without revealing sensitive information. Verification is done by trusted authorities through integrated APIs, and verified claims are stored on a tamper-proof blockchain, ensuring user privacy and control over personal data.
